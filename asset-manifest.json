@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Fashion_store/static/css/main.3317e68b.css",
+    "main.js": "/Fashion_store/static/js/main.56dba1b6.js",
+    "static/js/453.f2576641.chunk.js": "/Fashion_store/static/js/453.f2576641.chunk.js",
+    "static/media/western.jpg": "/Fashion_store/static/media/western.fdf031cc6c41a113e32a.jpg",
+    "static/media/salvari.jpg": "/Fashion_store/static/media/salvari.f39301dc2f5b560ba82c.jpg",
+    "static/media/frock.jpg": "/Fashion_store/static/media/frock.2cfa8bd0f7b677ae5117.jpg",
+    "static/media/Ethinic.jpg": "/Fashion_store/static/media/Ethinic.6f7aad8a51bb490ca511.jpg",
+    "static/media/casual wear.jpg": "/Fashion_store/static/media/casual wear.167822ea0be93f7bac55.jpg",
+    "static/media/printed shirt.jpg": "/Fashion_store/static/media/printed shirt.3726a3425cffc3df3dff.jpg",
+    "static/media/sale.jpg": "/Fashion_store/static/media/sale.301440c6e6145679df9a.jpg",
+    "static/media/fashion tshirt.jpg": "/Fashion_store/static/media/fashion tshirt.811ba229a5e85fee17a4.jpg",
+    "static/media/shopping women.jpg": "/Fashion_store/static/media/shopping women.0ba6b435be8606a2857e.jpg",
+    "static/media/shopping.jpg": "/Fashion_store/static/media/shopping.a71728d414a3d84eb12b.jpg",
+    "static/media/saari.jpg": "/Fashion_store/static/media/saari.d91081a05cdeec7a4cb3.jpg",
+    "static/media/kids.jpg": "/Fashion_store/static/media/kids.03beb69e61d93d35b85d.jpg",
+    "static/media/women shirt.jpg": "/Fashion_store/static/media/women shirt.5aaca4150bc005007492.jpg",
+    "index.html": "/Fashion_store/index.html",
+    "main.3317e68b.css.map": "/Fashion_store/static/css/main.3317e68b.css.map",
+    "main.56dba1b6.js.map": "/Fashion_store/static/js/main.56dba1b6.js.map",
+    "453.f2576641.chunk.js.map": "/Fashion_store/static/js/453.f2576641.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3317e68b.css",
+    "static/js/main.56dba1b6.js"
+  ]
+}
